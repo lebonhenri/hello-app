@@ -1,10 +1,7 @@
 import streamlit as st
-# from utils import PrepProcesor
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-# import joblib
 
 # model = joblib.load('xgbpipe.joblib')
 
